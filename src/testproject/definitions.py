@@ -50,3 +50,5 @@ def get_sdk_version() -> str:
         version = version.split("-")[0]
 
     return version
+
+# password abc#123
